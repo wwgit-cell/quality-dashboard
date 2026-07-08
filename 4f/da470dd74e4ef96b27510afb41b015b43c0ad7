@@ -1,0 +1,14 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4fda470dd74e4ef96b27510afb41b015b43c0ad7",
+  "prompts": {},
+  "humans": {
+    "h_0860dcc3488c22": {
+      "author": "wwgit-cell <wwgit-cell@users.noreply.github.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
